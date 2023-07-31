@@ -5,10 +5,10 @@
 # This python script is used for mysql database backup
 # using mysqldump and tar utility.
 #
-# Written by : Rahul Kumar
-# Website: http://tecadmin.net
-# Created date: Dec 03, 2013
-# Last modified: Aug 17, 2018 
+# Written by : Sandip Mukherjee
+# Website: null
+# Created date: July31, 2023
+# Last modified: Aug1, 2023 
 # Tested with : Python 2.7.15 & Python 3.5
 # Script Revision: 1.4
 #
